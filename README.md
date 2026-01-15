@@ -98,7 +98,7 @@ flowchart TD
 
 ### How to Install and Run with Docker
 
-1. **Create a .env file** with your configuration:
+1. **Create a .env file** -*if not exist*- with your configuration:
    ```
    # Cloud Manager Settings
    CLOUD_MANAGER_TENANT_ID=your-tenant-id
