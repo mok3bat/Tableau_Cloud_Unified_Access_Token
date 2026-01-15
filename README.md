@@ -123,7 +123,7 @@ flowchart TD
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/mok3bat/Tableau-Cloud-Unified-Access-Token-Tool.git
-   cd tableau-uat-tool
+   cd Tableau-Cloud-Unified-Access-Token-Tool
    ```
 
 2. **Create a virtual environment**:
