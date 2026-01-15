@@ -105,12 +105,12 @@ flowchart TD
 
    # Run with Docker Compose (recommended)
    docker compose up -d
-    ```
+   
 5. **Access the application**:
    Open your web browser and navigate to `http://localhost:7860`
 
 6. **Stop the container**:
-   ```bash
+   
    # If using Docker Compose
    docker compose down
 
