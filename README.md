@@ -98,7 +98,7 @@ flowchart TD
 
 ### How to Install and Run with Docker
 
-**Build and run the Docker container**:
+1. **Build and run the Docker container**:
    ```bash
    # Build the image
    docker build -t tableau-uat-tool .
@@ -106,10 +106,10 @@ flowchart TD
    # Run with Docker Compose (recommended)
    docker compose up -d
    ```
-5. **Access the application**:
+2. **Access the application**:
    Open your web browser and navigate to `http://localhost:7860`
 
-6. **Stop the container**:
+3. **Stop the container**:
    ```bash
    # If using Docker Compose
    docker compose down
